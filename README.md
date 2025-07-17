@@ -14,9 +14,9 @@ Sou uma profissional com mais de 8 anos de experiência em atendimento ao client
 
 Atualmente, estou em transição de carreira para a área de **Ciência de Dados**, cursando Data Science com IA (Alura) por meio do programa **Oracle Next Education (ONE)**, com foco em:
 
-- Programação com **Python**  
-- Bibliotecas: **Pandas, NumPy, Matplotlib, Seaborn**  
-- **Inteligência Artificial e Machine Learning**  
+- Programação com Python 
+- Bibliotecas: Pandas, NumPy, Matplotlib, Seaborn  
+- Inteligência Artificial e Machine Learning
 - Limpeza, análise e visualização de dados
 - ETL
 - Estatística e machine learning
