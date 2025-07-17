@@ -12,7 +12,7 @@ Experiência em atendimento ao cliente, finanças e cobrança.
 
 Sou uma profissional com mais de 8 anos de experiência em atendimento ao cliente, operações financeiras e recuperação de crédito.
 
-Atualmente, estou em transição de carreira para a área de **Ciência de Dados**, cursando Data Science com IA por meio do programa **Oracle Next Education (ONE)**, com foco em:
+Atualmente, estou em transição de carreira para a área de **Ciência de Dados**, cursando Data Science com IA (Alura) por meio do programa **Oracle Next Education (ONE)**, com foco em:
 
 - Programação com **Python**  
 - Bibliotecas: **Pandas, NumPy, Matplotlib, Seaborn**  
