@@ -1,8 +1,7 @@
 # 👋 Olá, eu sou a Samantha Fernandes!
 
-Formada em Administração 
-Pós-graduada em Gestão da Negociação e Relacionamento com o Cliente 
-Experiência em Finanças, Cobrança e Atendimento ao Cliente
+Formada em Administração e pós-graduada em Gestão da Negociação e Relacionamento com o Cliente 
+Experiência em atendimento ao cliente, finanças e cobrança.
 
 **Em transição para a área de Dados e Tecnologia** 
 
