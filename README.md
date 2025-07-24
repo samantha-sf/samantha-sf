@@ -5,6 +5,7 @@ Formada em Administração e pós-graduada em Gestão da Negociação e Relacion
 Experiência em atendimento ao cliente, finanças e cobrança.
 
 **Em transição para a área de Dados e Tecnologia** 
+**Cursando tecnólogo em Banco de dados**
 
 ---
 
@@ -58,6 +59,8 @@ Experience in customer service, finance, and debt collection.
 ## 🚀 About me
 
 I am a professional with over 8 years of experience in customer service, financial operations, and credit recovery.
+
+**Pursuing a degree in Database Technology**
 
 I am currently transitioning my career to the field of **Data Science**, studying Data Science with AI (Alura) through the **Oracle Next Education (ONE)** program, focusing on:
 
