@@ -1,38 +1,33 @@
 # 👋 Olá, eu sou a Samantha Fernandes!
 
+Tenho 30 anos e moro em Blumenau SC
+
 Formada em Administração e pós-graduada em Gestão da Negociação e Relacionamento com o Cliente 
 
-Experiência em atendimento ao cliente, finanças e cobrança.
+Mais de 10 anos de experiência em atendimento ao cliente, finanças e cobrança.
 
 **Em transição para a área de Dados e Tecnologia** 
+
 **Cursando tecnólogo em Banco de dados**
 
 ---
 
-## 🚀 Sobre mim
+# Ferramentas e tecnologias:
 
-Sou uma profissional com mais de 8 anos de experiência em atendimento ao cliente, operações financeiras e recuperação de crédito.
-
-Atualmente, estou em transição de carreira para a área de **Ciência de Dados**, cursando Data Science com IA (Alura) por meio do programa **Oracle Next Education (ONE)**, com foco em:
+Desenvolvendo habilidades e adquirindo conhecimentos em:
 
 - Programação com Python 
 - Bibliotecas: Pandas, NumPy, Matplotlib, Seaborn  
-- Inteligência Artificial e Machine Learning
-- Limpeza, análise e visualização de dados
+- Inteligência Artificial
+- Visualização de dados
 - ETL
 - Estatística e machine learning
-
+- Jupyter Notebook
+- Git e GitHub
+- Power BI
+- SQL
+  
 Sou apaixonada por aprender, por tecnologia e por como os dados podem melhorar processos e decisões — especialmente nas áreas de negócios e finanças.
-
----
-
-## 🛠️ Tecnologias e Ferramentas
-
-- `Python`  
-- `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`  
-- `Jupyter Notebook`  
-- `Git` e `GitHub`  
-- `Excel` e `Google Planilhas`  
 
 ---
 
@@ -48,40 +43,34 @@ _Obrigada pela visita!_
 
 # 👋 Hi, I'm Samantha Fernandes!
 
+I'm 30 years old and based in Brazil
+
 Graduated in Business Administration and post-graduated in Customer Negotiation and Relationship Management.
 
-Experience in customer service, finance, and debt collection.
+Over 10 years of experience in customer service, finance, and collections.
 
 **Transitioning to the Data and Technology field**
 
----
-
-## 🚀 About me
-
-I am a professional with over 8 years of experience in customer service, financial operations, and credit recovery.
-
 **Pursuing a degree in Database Technology**
 
-I am currently transitioning my career to the field of **Data Science**, studying Data Science with AI (Alura) through the **Oracle Next Education (ONE)** program, focusing on:
+---
+
+# Tools and tecnologies:
+
+Developing skills and acquiring knowledge on:
 
 - Programming with Python  
 - Libraries: Pandas, NumPy, Matplotlib, Seaborn  
-- Artificial Intelligence and Machine Learning  
-- Data cleaning, analysis, and visualization  
+- Artificial Intelligence
+- Data visualization  
 - ETL  
-- Statistics and machine learning  
+- Statistics and machine learning
+- Jupyter Notebook
+- Git e GitHub
+- Power BI
+- SQL 
 
-I am passionate about learning, technology, and how data can improve processes and decision-making — especially in business and finance areas.
-
----
-
-## 🛠️ Technologies and Tools
-
-- `Python`  
-- `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`  
-- `Jupyter Notebook`  
-- `Git` and `GitHub`  
-- `Excel` and `Google Sheets`  
+I am passionate about learning, technology and how data can improve processes and decision-making — especially in business and finance areas.
 
 ---
 
