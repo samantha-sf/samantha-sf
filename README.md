@@ -33,7 +33,7 @@ Sou apaixonada por aprender, por tecnologia e por como os dados podem melhorar p
 
 Se você busca alguém com experiência prática no mundo dos negócios, que está se desenvolvendo na área de dados com muita dedicação e entusiasmo, estou aberta a conexões:
 
-- Linkedin: https://www.linkedin.com/in/samantha-fernandes-atendimento-negociação-cobranca/ 
+- [Linkedin](https://www.linkedin.com/in/samantha-fernandes-atendimento-negociação-cobranca/)
 
 ---
 
@@ -76,7 +76,7 @@ I am passionate about learning, technology and how data can improve processes an
 
 If you're looking for someone with hands-on experience in the business world who is developing in the data field with great dedication and enthusiasm, I’m open to connections:
 
-- LinkedIn: https://www.linkedin.com/in/samantha-fernandes-atendimento-negocia%C3%A7%C3%A3o-cobranca/?locale=en_US
+- [LinkedIn](https://www.linkedin.com/in/samantha-fernandes-atendimento-negocia%C3%A7%C3%A3o-cobranca/?locale=en_US)
 
 ---
 
